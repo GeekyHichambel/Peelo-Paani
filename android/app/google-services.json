@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497304404349",
+    "project_id": "peelo-paani",
+    "storage_bucket": "peelo-paani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497304404349:android:4306a37a363841e4a50c14",
+        "android_client_info": {
+          "package_name": "com.peelo_paani.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHZ2pkVNw1tAJ91V1AFnDkq0H18SDDuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
